@@ -23,5 +23,5 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 
 
 ## Codigo
--  [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C02E01)
--  [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C02E02)
+-  [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-03/tree/main/C02E01)
+-  [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-03/tree/main/C02E02)

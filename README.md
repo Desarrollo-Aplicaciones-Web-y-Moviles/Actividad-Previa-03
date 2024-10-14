@@ -17,11 +17,11 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 
 ## Resultados
 
-<img width="163" alt="image" src="https://github.com/user-attachments/assets/fec50953-3420-4079-9607-a0f77dfadeac">
-<img width="163" alt="image" src="https://github.com/user-attachments/assets/2c7ab384-1ccd-476b-b7e8-3c0d7fe66453">
+<img width="163" alt="image" src="https://github.com/user-attachments/assets/b1e45b18-b70b-46f2-a1ac-b46921523e65">
+<img width="163" alt="image" src="https://github.com/user-attachments/assets/58d12ad3-e0a6-4c79-af32-54c5d2af50d4">
 
 
 
 ## Codigo
--  [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-01/tree/main/C01E01)
--  [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-01/tree/main/C01E02)
+-  [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C02E01)
+-  [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C02E02)
